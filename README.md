@@ -115,7 +115,7 @@ This separation allows the WebSocket client to handle networking independently w
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mahmoud8999/binance-market-tui
 cd binance-market-tui
 ```
 
